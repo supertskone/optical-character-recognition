@@ -1,5 +1,5 @@
 # Handwritten Optical Character Recognition (OCR) Prototype
-## Introduction
+### Introduction
 This project aims to prototype a system for Optical Character Recognition (OCR) on handwritten characters. The goal is to develop a proof of concept using the MNIST database of handwritten digits. Although the final system will be designed for recognizing custom handwritten characters, the MNIST dataset serves as a starting point due to its similarities in input and output.
 
 ### MNIST Dataset
